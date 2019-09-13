@@ -1,0 +1,6 @@
+model_checkpoint_path: "rnn-1880"
+all_model_checkpoint_paths: "rnn-1128"
+all_model_checkpoint_paths: "rnn-1316"
+all_model_checkpoint_paths: "rnn-1504"
+all_model_checkpoint_paths: "rnn-1692"
+all_model_checkpoint_paths: "rnn-1880"

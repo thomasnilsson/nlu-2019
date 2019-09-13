@@ -1,0 +1,10 @@
+{
+    "learning_rate": 5e-05,
+    "cell_size": 160,
+    "hidden_size": 128,
+    "grad_clip_norm": 10,
+    "dropout": 0.3,
+    "cell_height": 1,
+    "load_dirs": [],
+    "fine_tune": false
+}
